@@ -42,7 +42,7 @@
     "prettier": "^2.0.4",
     "reconnecting-websocket": "^4.4.0",
     "rxjs": "^6.5.5",
-    "terser": "^4.6.11",
+    "terser": "^4.8.1",
     "tippy.js": "^6.1.1",
     "toastify-js": "^1.7.0",
     "tributejs": "^5.1.3",
